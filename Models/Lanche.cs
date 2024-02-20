@@ -12,7 +12,7 @@ namespace LanchesMVC.Models
         public string? Nome { get; set; }
 
         [Required(ErrorMessage = "Campo obrigatório")]
-        [StringLength(100, ErrorMessage = "Máximo 100 caracteres")]
+        [StringLength(200, ErrorMessage = "Máximo 200 caracteres")]
         public string? DescricaoCurta { get; set; }
 
         [Required(ErrorMessage = "Campo obrigatório")]

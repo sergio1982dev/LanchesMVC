@@ -25,6 +25,22 @@
       "PackagePath": "staticwebassets\\images\\carousel3.jpg"
     },
     {
+      "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\lanche2.jpg",
+      "PackagePath": "staticwebassets\\images\\lanche2.jpg"
+    },
+    {
+      "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\lanche3.jpg",
+      "PackagePath": "staticwebassets\\images\\lanche3.jpg"
+    },
+    {
+      "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\lanche4.jpg",
+      "PackagePath": "staticwebassets\\images\\lanche4.jpg"
+    },
+    {
+      "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\lanche5.jpg",
+      "PackagePath": "staticwebassets\\images\\lanche5.jpg"
+    },
+    {
       "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

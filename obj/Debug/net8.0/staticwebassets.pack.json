@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\images\\Full-Cart-icon.png"
+    },
+    {
       "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\carousel1.jpg",
       "PackagePath": "staticwebassets\\images\\carousel1.jpg"
     },
@@ -23,6 +27,14 @@
     {
       "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\carousel3.jpg",
       "PackagePath": "staticwebassets\\images\\carousel3.jpg"
+    },
+    {
+      "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
+    },
+    {
+      "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
     },
     {
       "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\lanche2.jpg",
@@ -39,6 +51,10 @@
     {
       "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\lanche5.jpg",
       "PackagePath": "staticwebassets\\images\\lanche5.jpg"
+    },
+    {
+      "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\images\\remove.ico",
+      "PackagePath": "staticwebassets\\images\\remove.ico"
     },
     {
       "Id": "C:\\Portfolio\\LanchesMVC\\LanchesMVC\\wwwroot\\js\\site.js",
